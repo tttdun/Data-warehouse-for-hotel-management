@@ -8,7 +8,7 @@ The aim of the project is to build a data warehouse to manage hotel operations e
 - High-Level-Dimensional-Modeling-Workbook-Hotel
 - Detailed-Dimensional-Modeling-Workbook-KimballU
 # How to implement ETL progress in SSIS
-- Important: You need install a tool named "SSIS" in Visual Studio
+- Important: You need install a tool named 'SSIS' in Visual Studio
 - First, import the file named 'Hotel' into Microsoft SQL Server to create a raw database.
 - Second, create an other database to store database during etl progress
 - Third, open my source named 'HotelETL' in Visual Studio and update the connection settings for each action as needed.
