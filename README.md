@@ -1,4 +1,4 @@
-# DataWarehouse_Term1_2024
+# DataWarehouse_Term2_The third year
 This is the final project that my team of four members implemented for our Data Warehouse course in the second semester of our third year at HCMUTE.
 The aim of the project is to build a data warehouse to manage hotel operations efficiently.
 # The tool We used
