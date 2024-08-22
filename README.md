@@ -1,6 +1,11 @@
 # DataWarehouse_Term2_The third year
 This is the final project that my team of four members implemented for our Data Warehouse course in the second semester of our third year at HCMUTE.
+
 The aim of the project is to build a data warehouse to manage hotel operations efficiently.
+
+The data warehouse is designed with two fact tables:
+- FactBookings (manage all of rooms in hotel)
+- FactSales (manage sales of hotel)
 # The tool We used
 - SSIS
 - Power BI
